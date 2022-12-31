@@ -23,7 +23,8 @@ Video Chat webapp built using React.js, Node.js, Socket.io and Peer.js
 
  - [Frontend Code](https://github.com/Pinqua/Call-Buddy-Frontend)
  
-![Logo](https://call-buddy.vercel.app/static/media/logo.1b0797ca.png)
+ 
+<img src="https://call-buddy.vercel.app/static/media/logo.1b0797ca.png" alt="" height="100" />  
 
     
 ## Demo
