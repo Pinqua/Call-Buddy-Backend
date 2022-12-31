@@ -56,7 +56,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Call-Buddy-Backend
 ```
 
 Install dependencies
